@@ -197,3 +197,4 @@
 00:28:10 | coverage_percent=3061
 00:28:12 | signature2=ac356d33208164fb0c9a5f6b28ad9721efd0f99bfdceba8c127bbe2f25b050be
 01:28:07 | shard=720001
+01:28:11 | coverage_percent=4312
